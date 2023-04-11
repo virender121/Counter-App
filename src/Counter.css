@@ -1,0 +1,17 @@
+.Counter{
+    width: 300px;
+    background-color: rgb(58, 58, 131);
+    align-items: center;
+    justify-content: center;
+    color:red ;
+    margin: 290px;
+    margin-left: 490px;
+}
+
+button{
+    font-weight: bold;
+    color: red;
+    justify-content: center;
+    align-items: center;
+    
+}
